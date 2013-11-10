@@ -9,7 +9,7 @@ What is Anarres?
 ===
 
 Anarres is a project to bring internet back to people:
-a social network dedicated to books, books and then, books.
+*a social network* dedicated to books, books and then, books.
 Ebooks, too, should you want them.
 
 The readers' place, in control of their content and Free Speech.
@@ -26,3 +26,15 @@ and join us, with issues, proposals, or say hi.
 
 Contact Alfaniel on freenode, goodreads or booklikes.
 
+
+Existing open sites
+===
+
+Other initiatives are in development, for opening access to content. The library of all books:
+
+Open Library https://openlibrary.org
+
+We are investigating the use of open library book data for the library component.
+
+Additional applications in progress from open library:
+book server and book reader.
