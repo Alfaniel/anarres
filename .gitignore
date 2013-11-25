@@ -1,0 +1,29 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit tests
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Django
+*.log
+*.pot
+
+# Documentation
+docs/_build/
+
